@@ -113,9 +113,10 @@ Mimics real-world price negotiations using dynamic on-chain pricing.
 
 Can be extended to AI oracles for real-time market data.
 
+<img width="1916" height="1087" alt="image" src="https://github.com/user-attachments/assets/9375e88a-b2ef-425c-8200-8b4c4eb78e6f" />
+
 
 Inspired by AI-enhanced commerce and eBay-like decentralized auctions.
 
 # RESULT:
-
-
+Thus, a smart contract that integrates AI logic for automated negotiation in decentralized commerce is deployed and output verified.
